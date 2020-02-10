@@ -12,11 +12,12 @@ body {
 h1 {
   grid-row: 1 / span 1;
   grid-column: 1 / span 3;
+  text-align: center;
   letter-spacing: 0.25em;
   font-size: 55px;
-  color: black;
+  color: #0532AE;
   margin: 2% 10%;
-  letter-spacing: 30px;
+  letter-spacing: 20px;
 }
 .reset {
   margin: 20% 20%;
@@ -87,5 +88,5 @@ h1 {
 
 .boxes:hover {
   background-color: lightgray;
-  border: 1px solid grey;
+  border: 8px solid grey;
 }
